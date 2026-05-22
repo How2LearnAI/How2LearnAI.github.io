@@ -921,7 +921,7 @@ Iteration: 3000. Loss: 0.15632082521915436. Accuracy: 96
 ```
 
 ### Model E: 3 Hidden Layer Feedforward Neural Network (ReLU Activation)
-![](./images/nn3.png")
+![](./images/nn3.png)
 
 ### Steps
 - Step 1: Load Dataset

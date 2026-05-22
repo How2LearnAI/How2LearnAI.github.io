@@ -1,0 +1,7 @@
+# Dependencies to build the Deep Learning Wizard MkDocs site.
+# mkdocs-material is pinned to the version vendored in ./material (see material/__init__.py).
+# The other pins are the versions mkdocs-material 9.5.13 resolves to.
+mkdocs==1.5.3
+mkdocs-material==9.5.13
+mkdocs-material-extensions==1.3.1
+pymdown-extensions==10.21.3

@@ -218,7 +218,7 @@ optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate)
 - Hidden Layer to Hidden Layer Affine Function
     - A3, B3
     
-![](./images/rnn4n.pn)
+![](./images/rnn4n.png)
 
 
 !!! note "Total groups of parameters"
