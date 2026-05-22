@@ -208,7 +208,7 @@ extra:
     - icon: 'fontawesome/brands/linkedin'
       link: 'https://www.linkedin.com/in/ijbo/'
     - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/ritchieng'
+      link: 'https://github.com/ijbo'
 
 # Search
 plugins:
