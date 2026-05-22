@@ -1,7 +1,7 @@
 # Project information
 site_name: 'Learn AI'
-site_description: 'We try to make learning deep learning, deep bayesian learning, and deep reinforcement learning math and code easier. Open-source and used by thousands globally.'
-site_author: 'Ritchie Ng'
+site_description: 'Learn AI makes machine learning, deep learning, and reinforcement learning math and code easier. Open-source and used by thousands globally.'
+site_author: 'Learn AI'
 site_url: 'https://How2LearnAI.github.io/'
 
 # Navigation
@@ -199,9 +199,6 @@ markdown_extensions:
 
 # Social
 extra:
-  analytics:
-    provider: google
-    property: 'UA-122083328-1'
   social:
     - icon: 'fontawesome/brands/x-twitter'
       link: 'https://x.com/i_Jyotir'
@@ -219,7 +216,6 @@ plugins:
 # For mathjax rendering
 extra_javascript:
   - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Source to repository
@@ -227,4 +223,4 @@ repo_name: How2LearnAI/How2LearnAI.github.io
 repo_url: https://github.com/How2LearnAI/How2LearnAI.github.io
 
 # Copyright
-copyright: 'Copyright &copy; 2018-2024 Learn AI by Ritchie Ng'
+copyright: 'Copyright &copy; 2018-2026 Learn AI'

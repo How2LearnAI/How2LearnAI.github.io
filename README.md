@@ -1,4 +1,4 @@
-# Deep Learning Materials by Learn AI
+# Learn AI
 
 <img src="https://img.shields.io/badge/license-MIT-green.svg"/>
 
