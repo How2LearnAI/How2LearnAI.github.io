@@ -203,14 +203,10 @@ extra:
     provider: google
     property: 'UA-122083328-1'
   social:
-    - icon: 'fontawesome/brands/youtube'
-      link: 'https://www.youtube.com/channel/UCJz2MIjiCosOQCwhnsYxeEw'
-    - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/deeplearningwiz'
-    - icon: 'fontawesome/brands/facebook'
-      link: 'https://www.facebook.com/DeepLearningWizard/'
+    - icon: 'fontawesome/brands/x-twitter'
+      link: 'https://x.com/i_Jyotir'
     - icon: 'fontawesome/brands/linkedin'
-      link: 'https://www.linkedin.com/company/deeplearningwizard/'
+      link: 'https://www.linkedin.com/in/ijbo/'
     - icon: 'fontawesome/brands/github'
       link: 'https://github.com/ritchieng'
 
