@@ -1,4 +1,4 @@
-# Deep Learning Materials by Deep Learning Wizard
+# Deep Learning Materials by Learn AI
 
 <img src="https://img.shields.io/badge/license-MIT-green.svg"/>
 
@@ -75,8 +75,8 @@ Take note this is an early work in progress, do be patient as we gradually uploa
     - [Introduction](https://www.deeplearningwizard.com/data_engineering/nosql/cassandra/intro/)
     - [Apache Cassandra Cluster Setup](https://www.deeplearningwizard.com/data_engineering/nosql/cassandra/setting_up_cluster/)
     
-## About Deep Learning Wizard
-We deploy a top-down approach that enables you to grasp deep learning theories and code easily and quickly. We have open-sourced all our materials through our Deep Learning Wizard Wikipedia. For visual learners, feel free to sign up for our video course and join thousands of deep learning wizards.
+## About Learn AI
+We deploy a top-down approach that enables you to grasp deep learning theories and code easily and quickly. We have open-sourced all our materials through our Learn AI Wikipedia. For visual learners, feel free to sign up for our video course and join thousands of learners.
 
 To this date, we have taught thousands of students across more than 120+ countries.
 

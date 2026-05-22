@@ -9,7 +9,7 @@ comments: true
 ---
 
 # IT Youth Leader of the Year 2019 Award
-I am very happy to be the [IT Youth Leader of the Year 2019](https://www.scs.org.sg/it-leader-awards/winners-by-year.php?year=2019) in Singapore for my industry and non-profit contribution in AI at **Deep Learning Wizard**, ensemblecap.ai, NUS,  and NVIDIA!
+I am very happy to be the [IT Youth Leader of the Year 2019](https://www.scs.org.sg/it-leader-awards/winners-by-year.php?year=2019) in Singapore for my industry and non-profit contribution in AI at **Learn AI**, ensemblecap.ai, NUS,  and NVIDIA!
 
 <!-- more -->
 

@@ -31,7 +31,7 @@ In totality, we will cover a range of basic to advanced RAG architectures spanni
 
         Follow our [tutorial on Apptainer](https://www.deeplearningwizard.com/language_model/containers/hpc_containers_apptainer/) to get started. Once you have followed the tutorial till the [Ollama section](https://www.deeplearningwizard.com/language_model/containers/hpc_containers_apptainer/#ollama-multi-modal-workloads-example-llava7b-v16) where you successfully ran `ollama serve` and `ollama pull mxbai-embed-large`, you can run the `apptainer shell --nv --nvccli apptainer_container_0.1.sif` command followed by `jupyter lab` to access and run this notebook.
         
-        When you shell into the Apptainer `.sif` container, you will need to navigate the directory as you normally would into the Deep Learning Wizard repository that you cloned, requiring you to `cd ..` to go back a few directories and finally reaching the right folder. 
+        When you shell into the Apptainer `.sif` container, you will need to navigate the directory as you normally would into the Learn AI repository that you cloned, requiring you to `cd ..` to go back a few directories and finally reaching the right folder. 
 
 ## Embedding Example
 

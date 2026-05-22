@@ -1,5 +1,5 @@
 # Project information
-site_name: 'Deep Learning Wizard'
+site_name: 'Learn AI'
 site_description: 'We try to make learning deep learning, deep bayesian learning, and deep reinforcement learning math and code easier. Open-source and used by thousands globally.'
 site_author: 'Ritchie Ng'
 site_url: 'https://How2LearnAI.github.io/'
@@ -231,4 +231,4 @@ repo_name: How2LearnAI/How2LearnAI.github.io
 repo_url: https://github.com/How2LearnAI/How2LearnAI.github.io
 
 # Copyright
-copyright: 'Copyright &copy; 2018-2024 Deep Learning Wizard by Ritchie Ng'
+copyright: 'Copyright &copy; 2018-2024 Learn AI by Ritchie Ng'
