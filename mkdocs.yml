@@ -2,7 +2,7 @@
 site_name: 'Deep Learning Wizard'
 site_description: 'We try to make learning deep learning, deep bayesian learning, and deep reinforcement learning math and code easier. Open-source and used by thousands globally.'
 site_author: 'Ritchie Ng'
-site_url: 'https://ijbo.github.io/LearnAI/'
+site_url: 'https://How2LearnAI.github.io/'
 
 # Navigation
 nav:
@@ -178,8 +178,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: ijbo
-      repo: LearnAI
+      user: How2LearnAI
+      repo: How2LearnAI.github.io
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
@@ -227,8 +227,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Source to repository
-repo_name: ijbo/LearnAI
-repo_url: https://github.com/ijbo/LearnAI
+repo_name: How2LearnAI/How2LearnAI.github.io
+repo_url: https://github.com/How2LearnAI/How2LearnAI.github.io
 
 # Copyright
 copyright: 'Copyright &copy; 2018-2024 Deep Learning Wizard by Ritchie Ng'
