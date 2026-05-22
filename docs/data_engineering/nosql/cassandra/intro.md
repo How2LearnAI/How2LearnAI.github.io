@@ -12,5 +12,5 @@
     - You read/write millions of rows of data easily.
 
 !!! info "Work in progress"
-    This open-source portion is still a work in progress. Stay tuned while we gradually upload our tutorials and notes. Feel free to contact [Ritchie Ng](https://www.ritchieng.com/) if you would like to contribute via our [Facebook](https://www.facebook.com/DeepLearningWizard/) page.
+    This open-source portion is still a work in progress. Stay tuned while we gradually upload our tutorials and notes. Feel free to contact [Ritchie Ng](https://www.ritchieng.com/) if you would like to contribute via our [LinkedIn](https://www.linkedin.com/in/ijbo/) page.
  
