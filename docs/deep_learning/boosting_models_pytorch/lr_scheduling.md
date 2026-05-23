@@ -20,7 +20,7 @@ comments: true
 ## Learning Intuition Recap
 - Learning process
     - Original parameters $\rightarrow$ given input, get output $\rightarrow$ compare with labels $\rightarrow$ get loss with comparison of input/output $\rightarrow$ get gradients of loss w.r.t parameters $\rightarrow$ **update parameters so model can churn output closer to labels** $\rightarrow$ repeat
-- For a detailed mathematical account of how this works and how to implement from scratch in Python and PyTorch, you can read our [forward- and back-propagation and gradient descent post](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/).
+- For a detailed mathematical account of how this works and how to implement from scratch in Python and PyTorch, you can read our [forward- and back-propagation and gradient descent post](https://how2learnai.github.io/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/).
 
 ## Learning Rate Pointers
 ![](./images/lr1.png)

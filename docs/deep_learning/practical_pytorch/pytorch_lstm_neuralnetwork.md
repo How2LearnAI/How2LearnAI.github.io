@@ -227,7 +227,7 @@ torch.Size([10000])
 
 
 !!! note "In-depth Parameters Analysis"
-    Comparing to [RNN's parameters](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_recurrent_neuralnetwork/#parameters-in-depth), we've the same number of groups but for LSTM we've 4x the number of parameters!
+    Comparing to [RNN's parameters](https://how2learnai.github.io/deep_learning/practical_pytorch/pytorch_recurrent_neuralnetwork/#parameters-in-depth), we've the same number of groups but for LSTM we've 4x the number of parameters!
     
     ```python
     for i in range(len(list(model.parameters()))):

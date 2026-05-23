@@ -264,7 +264,7 @@ class AffineAndSoftmaxLayer:
         
         # Initialize weight/bias via Lecun initialization of 1 / N standard deviation
         # Refer to DLW guide on weight initialization mathematical derivation:
-        # https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/weight_initialization_activation_functions/
+        # https://how2learnai.github.io/deep_learning/boosting_models_pytorch/weight_initialization_activation_functions/
         print(f'Lecun initialization SD: {1/self.affine_weight_shape[3]}')
         self.w = torch.nn.init.normal_(self.w, mean=0, std=1/self.affine_weight_shape[3])
         self.b = torch.nn.init.normal_(self.b, mean=0, std=1/self.affine_weight_shape[3])

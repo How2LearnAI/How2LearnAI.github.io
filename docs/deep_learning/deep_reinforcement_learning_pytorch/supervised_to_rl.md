@@ -8,15 +8,15 @@ comments: true
 - The tasks we've covered so far fall under the category of supervised learning
 	- **Before, we have gone through 2 major tasks: classification and regression with labels**
 	- **Classification**: we've a number of MNIST images, we take them as input and we use a neural network for a classification task where we use the ground truth (whether the digits are 0-9) to construct our cross entropy loss
-		- [Classification loss](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_logistic_regression/#cross-entropy-function-d-for-more-than-2-class) function (cross entropy loss): $- \sum^K_1 L_i log(S_i)$
+		- [Classification loss](https://how2learnai.github.io/deep_learning/practical_pytorch/pytorch_logistic_regression/#cross-entropy-function-d-for-more-than-2-class) function (cross entropy loss): $- \sum^K_1 L_i log(S_i)$
 			- $K$: number of classes
 			- $L_i$: ground truth (label/target) of i-th class
 			- $S_i$: output of softmax for i-th class
 	- **Regression**: alternatively we go through a regression task of say, predicting a time-series, but we still have the ground truth we use to construct our loss function
-		- [Regression loss](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_linear_regression/#building-a-linear-regression-model-with-pytorch) function (mean squared error): $\frac{1}{n} \sum_{i=1}^n(\hat y_i - y_i)^2$
+		- [Regression loss](https://how2learnai.github.io/deep_learning/practical_pytorch/pytorch_linear_regression/#building-a-linear-regression-model-with-pytorch) function (mean squared error): $\frac{1}{n} \sum_{i=1}^n(\hat y_i - y_i)^2$
 			- $\hat{y}$: prediction
 			- $y$: ground truth (label/target)
-- The key emphasis here is that we have mainly gone through supervised learning tasks that requires labels. Without them, we would not be able to properly construct our loss functions for us to do 2 critical steps (1) [backpropagate to get our gradients](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/derivative_gradient_jacobian/) and (2) [gradient descent to update our weights with our gradients](https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/)
+- The key emphasis here is that we have mainly gone through supervised learning tasks that requires labels. Without them, we would not be able to properly construct our loss functions for us to do 2 critical steps (1) [backpropagate to get our gradients](https://how2learnai.github.io/deep_learning/boosting_models_pytorch/derivative_gradient_jacobian/) and (2) [gradient descent to update our weights with our gradients](https://how2learnai.github.io/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/)
 
 !!! note "Loss functions"
 	We have covered 2 basic loss functions such as cross entropy loss (classification task) and mean squared error (regression task).

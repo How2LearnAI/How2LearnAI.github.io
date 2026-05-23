@@ -1,6 +1,6 @@
 # About Us
 
-We deploy a top-down approach that enables you to grasp deep learning and deep reinforcement learning theories and code easily and quickly. We have open-sourced all our materials through our [Learn AI Tutorials](https://www.deeplearningwizard.com/deep_learning/course_progression/). For visual learners, feel free to sign up for our [video course](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD) and join over 6000 learners.
+We deploy a top-down approach that enables you to grasp deep learning and deep reinforcement learning theories and code easily and quickly. We have open-sourced all our materials through our [Learn AI Tutorials](https://how2learnai.github.io/deep_learning/course_progression/). For visual learners, feel free to sign up for our [video course](https://www.udemy.com/practical-deep-learning-with-pytorch/?couponCode=DEEPWIZARD) and join over 6000 learners.
 
 To this date, we have taught thousands of students across more than 120+ countries from students in high school to postgraduates and professionals in leading MNCs and research institutions around the world.
 
@@ -18,7 +18,7 @@ To this date, we have taught thousands of students across more than 120+ countri
 
     **Notes**: ritchieng.com
 
-    **Guides**: deeplearningwizard.com
+    **Guides**: how2learnai.github.io
 
 ## Individual Supporters
 

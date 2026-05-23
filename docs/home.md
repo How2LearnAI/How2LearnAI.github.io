@@ -20,7 +20,7 @@ You will the learn the suite of tools to build an end-to-end deep learning pipel
 	- CassandraDB (CPU DB)
 	- BlazingSQL (GPU DB)
 
-We deploy a top-down approach that enables you to grasp deep learning and deep reinforcement learning theories and code easily and quickly. We have open-sourced all our materials through our [Learn AI Tutorials](https://www.deeplearningwizard.com/deep_learning/course_progression/).
+We deploy a top-down approach that enables you to grasp deep learning and deep reinforcement learning theories and code easily and quickly. We have open-sourced all our materials through our [Learn AI Tutorials](https://how2learnai.github.io/deep_learning/course_progression/).
 
 To this date, we have taught thousands across more than 120+ countries from students in high school to postgraduates and professionals in leading MNCs and research institutions around the world.
 

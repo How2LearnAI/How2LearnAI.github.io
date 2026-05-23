@@ -112,7 +112,7 @@ print(Counter(y_train))
 
 #### 2a. Loss function clarification
 - Actually, why is our loss equation $L = ylog(\hat y) + (1-y) log (1 - \hat y)$?
-    - We have given the intuition in the [Logistic Regression tutorial](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_logistic_regression/#cross-entropy-function-d-for-2-class) on why it works.
+    - We have given the intuition in the [Logistic Regression tutorial](https://how2learnai.github.io/deep_learning/practical_pytorch/pytorch_logistic_regression/#cross-entropy-function-d-for-2-class) on why it works.
     - Here we will cover the derivation which essentially is merely maximizing the log likelihood of the parameters (maximizing the probability of our predicted output given our input and parameters
     - Given:
         - $\hat y = \frac{1}{1 + e^{-z}}$.
